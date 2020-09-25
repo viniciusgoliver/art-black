@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="ArtBlack" src=".github/logo.svg" width="200px" />
+	ArtBlack
 </h1>
 
 
